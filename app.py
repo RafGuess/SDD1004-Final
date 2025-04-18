@@ -61,7 +61,7 @@ if uploaded_file:
         )
         st.dataframe(df, use_container_width=True)
 
-        # ➕ Phrase explicative
+        # Phrase explicative
         st.markdown(
             "<p style='margin-top:10px;'>Chaque ligne représente une voiture détectée dans l’image. "
             "Le score de <strong>confiance</strong> de la détection, ainsi que la classe prédite "
