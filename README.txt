@@ -3,7 +3,7 @@ Benjamin Thénor THEB85110205
 
 Execution du programme
 
-Une fois le fichier dé-zippé, insérer votre modèle Yolo dans le dossier et démarrer l'application avec la ligne de commande -> streamlit run app.py. Une fois dans l'application, utilisez le téléverseur de fichier pour ajouter une image et démarrer la détection.
+Une fois le fichier dé-zippé, insérer votre modèle Yolo dans le dossier. Renommez le 'yolov8n.pt' ou changer le fichier app.py pour le nom de votre modèle et démarrez l'application avec la ligne de commande -> streamlit run app.py. Une fois dans l'application, utilisez le téléverseur de fichier pour ajouter une image et démarrer la détection.
 
 
 Questions de réflexions
